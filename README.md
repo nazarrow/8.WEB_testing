@@ -1,4 +1,6 @@
-# Chrome_DevTools
+# WEB_testing
+
+## Chrome_DevTools
 
 + [Chrome DevTools Documentation](https://developer.chrome.com/docs/devtools/)
 + [Полезные функции DevTools для тестировщиков](https://habr.com/ru/post/558694/)
@@ -8,7 +10,7 @@
 + [Как использовать Chrome DevTools при анализе сайта «Источник: https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#2»](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#2)
 + [Средства консоли Chrome, которыми вы, возможно, никогда не пользовались](https://habr.com/ru/companies/ruvds/articles/486692/)
 
-# Инструменты замера скорости загрузки
+## Инструменты замера скорости загрузки
 
 + [https://serpstat.com](https://serpstat.com/ru/blog/luchshie-instrumenty-dlya-proverki-skorosti-zagruzki/)
 + [www.uptrends.com](https://www.uptrends.com/tools/website-speed-test)
