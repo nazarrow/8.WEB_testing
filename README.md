@@ -9,6 +9,7 @@
 + [Chrome Developer Tools для тестировщика](https://testengineer.ru/chrome-developer-tools-dlya-testirovshchika/)
 + [Как использовать Chrome DevTools при анализе сайта «Источник: https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#2»](https://siteclinic.ru/blog/seo-instrumenty/seo-chrome-devtools/#2)
 + [Средства консоли Chrome, которыми вы, возможно, никогда не пользовались](https://habr.com/ru/companies/ruvds/articles/486692/)
++ [Chrome DevTools: полное руководство](https://qarocks.ru/chrome-devtools-complete-guide/)
 
 ## Инструменты замера скорости загрузки
 
